@@ -1,11 +1,13 @@
 {
-  "author": "Drew Larson <me@drewlarson.ca>",
+  "author": "Joel <jgj@gmx.ca>",
   "description": "A fun app to build palettes",
-  "engines": {"node": "8.16.x"},
+  "engines": {
+    "node": "8.16.x"
+  },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/drwlrsn/palette-builder/issues",
-    "email": "me@drewlarson.ca"
+    "url": "",
+    "email": ""
   },
   "name": "palette-builder",
   "version": "0.1.0",
